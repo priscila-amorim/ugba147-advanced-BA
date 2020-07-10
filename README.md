@@ -3,6 +3,6 @@ Successful business analysts, managers, and executives are increasingly required
 * Business decision modeling, exploratory data analysis, cluster modeling, predictive modeling  
 * Data analytic methods, including machine learning and other approaches  
 * Introduction to R and Jupyter software for data analysis  
-• Real-world/real-data business practicum across a variety of industries:
+* Real-world/real-data business practicum across a variety of industries:
     stock market, political fundraising, health care products, banking, electric utilities, real estate, hospitality, retail, call centers, telecom, transportation,
     and others
